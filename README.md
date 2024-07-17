@@ -55,7 +55,11 @@ This is a single-page application (SPA) built with Vue.js for the frontend and N
   cd frontend
   ```
 
-7. Launch frontend:
+7. **(OPTIONAL)** If you don't have Vue CLI, install it using this command:
+  ```bash
+  npm install
+  ```
+8. Launch frontend:
   ```bash
   npm run serve
   ```
