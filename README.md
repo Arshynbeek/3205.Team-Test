@@ -64,4 +64,4 @@ These steps will start this project.
 If an error is detected in the terminal, check whether hosts 3000 & 8080 are busy on your machine.
 
 ## Usage
-After launching the application, you can access the web interface through your browser at `http://localhost:[port]`. Replace `[port]` with the actual port number configured in the Docker or Go settings.
+After launching the application, you can access the web interface through your browser at `http://localhost:8080`.
